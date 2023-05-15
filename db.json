@@ -1,14 +1,1 @@
-[
-    {
-        "id": "1",
-        "nome": "Harry Potter"
-    },
-    {
-        "id": "2",
-        "nome": "Senhor da Guerra"
-    },
-    {
-        "id": 3,
-        "nome": "A culta é das estrelas"
-    }
-]
+[{"id":"1","nome":"Harry Potter"},{"id":"2","nome":"A culpa é das estrelas"},{"id":3,"nome":"A culta é das estrelas"}]
